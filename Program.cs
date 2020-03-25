@@ -10,6 +10,10 @@ namespace supermarcket
     {
         static void Main(string[] args)
         {
+            supermarket sm = new supermarket();
+            sm.ShowPros();
+            sm.AskBuying();
+            Console.ReadLine();
         }
     }
 }

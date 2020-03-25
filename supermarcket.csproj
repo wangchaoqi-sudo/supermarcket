@@ -45,6 +45,10 @@
   <ItemGroup>
     <Compile Include="Acer.cs" />
     <Compile Include="Banana.cs" />
+    <Compile Include="CalFather.cs" />
+    <Compile Include="CalMN.cs" />
+    <Compile Include="CalNormal.cs" />
+    <Compile Include="CalRate.cs" />
     <Compile Include="CangKu.cs" />
     <Compile Include="JiangYou.cs" />
     <Compile Include="ProductFather.cs" />

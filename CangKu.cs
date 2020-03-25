@@ -79,7 +79,7 @@ namespace supermarcket
         {
             foreach (var item in list)
             {
-                Console.WriteLine("我们超市有：" + item[0].name + "," + "\t" + "有" + item.Count + "个," + "\t" + "每个" + item[0].Price + "元");
+                Console.WriteLine("我们超市有：" + item[0].name + "," + "\t" + "有" + item.Count + "个," + "\t" + "每个" + item[0].price + "元");
             }
         }
 
